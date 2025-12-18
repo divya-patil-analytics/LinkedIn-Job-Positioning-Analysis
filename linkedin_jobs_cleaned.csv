@@ -1,0 +1,1003 @@
+Job_ID,Role,Company,Location,Experience_Years,Salary_LPA,Primary_Skill,Posting_Date
+1,ML Engineer,QuantifyAI,Hyderabad,2,Not Available,Excel,01-01-2024
+2,BI Analyst,QuantifyAI,Bangalore,4,7,Excel,02-01-2024
+3,Data Scientist,QuantifyAI,Pune,Not Available,7,Power BI,03-01-2024
+4,BI Analyst,QuantifyAI,Mumbai,0,8,Excel,04-01-2024
+5,BI Analyst,NextGen Analytics,Chennai,4,3,Python,05-01-2024
+6,Business Analyst,NextGen Analytics,Chennai,5,3,Excel,06-01-2024
+7,Data Scientist,DataZest,Mumbai,1,Not Available,Excel,07-01-2024
+8,Data Scientist,TechNova,Mumbai,5,5,Power BI,08-01-2024
+9,Data Scientist,QuantifyAI,Pune,3,6,Power BI,09-01-2024
+10,BI Analyst,DataZest,Bangalore,3,3,Excel,10-01-2024
+11,ML Engineer,TechNova,Chennai,1,Not Available,SQL,11-01-2024
+12,Data Scientist,InsightWorks,Pune,2,10,Power BI,12-01-2024
+13,BI Analyst,NextGen Analytics,Bangalore,2,4,Tableau,13-01-2024
+14,Business Analyst,TechNova,Pune,3,10,Tableau,14-01-2024
+15,ML Engineer,InsightWorks,Chennai,3,9,Python,15-01-2024
+16,Business Analyst,TechNova,Mumbai,Not Available,8,Excel,16-01-2024
+17,ML Engineer,NextGen Analytics,Mumbai,0,3,SQL,17-01-2024
+18,BI Analyst,NextGen Analytics,Bangalore,Not Available,9,Python,18-01-2024
+19,Data Analyst,DataZest,Hyderabad,Not Available,9,Excel,19-01-2024
+20,ML Engineer,QuantifyAI,Bangalore,2,Not Available,Power BI,20-01-2024
+21,Business Analyst,TechNova,Hyderabad,1,3,Tableau,21-01-2024
+22,BI Analyst,TechNova,Pune,2,4,SQL,22-01-2024
+23,ML Engineer,InsightWorks,Pune,0,Not Available,Tableau,23-01-2024
+24,Data Analyst,NextGen Analytics,Chennai,5,Not Available,Power BI,24-01-2024
+25,Data Analyst,TechNova,Hyderabad,3,8,Excel,25-01-2024
+26,Data Scientist,NextGen Analytics,Chennai,3,8,Power BI,26-01-2024
+27,Data Scientist,TechNova,Mumbai,0,6,Power BI,27-01-2024
+28,Business Analyst,DataZest,Hyderabad,Not Available,6,Tableau,28-01-2024
+29,ML Engineer,QuantifyAI,Bangalore,1,7,SQL,29-01-2024
+30,ML Engineer,TechNova,Mumbai,3,5,Power BI,30-01-2024
+31,Data Scientist,NextGen Analytics,Mumbai,4,3,Tableau,31-01-2024
+32,ML Engineer,DataZest,Bangalore,Not Available,3,SQL,01-02-2024
+33,ML Engineer,TechNova,Mumbai,3,9,Excel,02-02-2024
+34,Data Analyst,InsightWorks,Hyderabad,4,3,Excel,03-02-2024
+35,Data Scientist,QuantifyAI,Chennai,0,3,Python,04-02-2024
+36,BI Analyst,TechNova,Mumbai,0,5,Tableau,05-02-2024
+37,Data Scientist,DataZest,Hyderabad,Not Available,6,SQL,06-02-2024
+38,BI Analyst,InsightWorks,Pune,3,6,Power BI,07-02-2024
+39,Data Analyst,DataZest,Hyderabad,2,4,Excel,08-02-2024
+40,Business Analyst,DataZest,Chennai,4,3,SQL,09-02-2024
+41,ML Engineer,InsightWorks,Hyderabad,1,5,Tableau,10-02-2024
+42,Data Analyst,DataZest,Bangalore,3,6,Python,11-02-2024
+43,ML Engineer,InsightWorks,Chennai,1,5,Excel,12-02-2024
+44,Business Analyst,TechNova,Pune,3,10,SQL,13-02-2024
+45,Business Analyst,InsightWorks,Bangalore,2,3,SQL,14-02-2024
+46,Data Analyst,InsightWorks,Hyderabad,2,4,SQL,15-02-2024
+47,Business Analyst,QuantifyAI,Chennai,Not Available,9,Tableau,16-02-2024
+48,BI Analyst,InsightWorks,Pune,Not Available,6,Tableau,17-02-2024
+49,Business Analyst,InsightWorks,Bangalore,2,10,Tableau,18-02-2024
+50,ML Engineer,TechNova,Pune,5,5,Power BI,19-02-2024
+51,ML Engineer,QuantifyAI,Hyderabad,2,8,SQL,20-02-2024
+52,ML Engineer,NextGen Analytics,Pune,0,Not Available,Excel,21-02-2024
+53,ML Engineer,TechNova,Mumbai,0,3,Tableau,22-02-2024
+54,BI Analyst,TechNova,Bangalore,5,3,Tableau,23-02-2024
+55,Data Scientist,NextGen Analytics,Pune,4,10,SQL,24-02-2024
+56,Data Analyst,InsightWorks,Hyderabad,1,5,Tableau,25-02-2024
+57,ML Engineer,DataZest,Hyderabad,3,7,Power BI,26-02-2024
+58,Business Analyst,QuantifyAI,Pune,3,3,Power BI,27-02-2024
+59,ML Engineer,DataZest,Hyderabad,5,7,Tableau,28-02-2024
+60,Business Analyst,NextGen Analytics,Chennai,0,8,SQL,29-02-2024
+61,Business Analyst,TechNova,Chennai,Not Available,10,SQL,01-03-2024
+62,ML Engineer,TechNova,Chennai,3,5,SQL,02-03-2024
+63,BI Analyst,QuantifyAI,Mumbai,0,5,Python,03-03-2024
+64,Business Analyst,TechNova,Pune,4,Not Available,Tableau,04-03-2024
+65,Business Analyst,TechNova,Mumbai,1,6,SQL,05-03-2024
+66,ML Engineer,QuantifyAI,Hyderabad,4,6,Power BI,06-03-2024
+67,Business Analyst,QuantifyAI,Mumbai,5,9,Excel,07-03-2024
+68,Business Analyst,NextGen Analytics,Hyderabad,2,4,Excel,08-03-2024
+69,ML Engineer,TechNova,Hyderabad,2,10,SQL,09-03-2024
+70,ML Engineer,TechNova,Bangalore,2,8,Excel,10-03-2024
+71,Data Analyst,NextGen Analytics,Chennai,4,5,Excel,11-03-2024
+72,BI Analyst,InsightWorks,Hyderabad,3,Not Available,Python,12-03-2024
+73,BI Analyst,InsightWorks,Bangalore,1,7,Power BI,13-03-2024
+74,Business Analyst,InsightWorks,Chennai,2,10,Power BI,14-03-2024
+75,BI Analyst,NextGen Analytics,Hyderabad,5,9,Python,15-03-2024
+76,Business Analyst,TechNova,Hyderabad,5,10,Python,16-03-2024
+77,Data Analyst,NextGen Analytics,Mumbai,2,9,Excel,17-03-2024
+78,ML Engineer,NextGen Analytics,Mumbai,2,5,Tableau,18-03-2024
+79,ML Engineer,InsightWorks,Chennai,1,4,Excel,19-03-2024
+80,ML Engineer,DataZest,Hyderabad,2,9,Python,20-03-2024
+81,BI Analyst,TechNova,Pune,1,5,Power BI,21-03-2024
+82,Data Analyst,InsightWorks,Mumbai,5,5,Excel,22-03-2024
+83,BI Analyst,DataZest,Chennai,2,4,Tableau,23-03-2024
+84,BI Analyst,DataZest,Hyderabad,4,6,Excel,24-03-2024
+85,Data Analyst,QuantifyAI,Hyderabad,Not Available,10,SQL,25-03-2024
+86,Data Analyst,TechNova,Pune,4,3,Excel,26-03-2024
+87,Data Analyst,DataZest,Chennai,5,3,Python,27-03-2024
+88,Data Analyst,InsightWorks,Hyderabad,1,7,Power BI,28-03-2024
+89,ML Engineer,QuantifyAI,Mumbai,4,7,Power BI,29-03-2024
+90,Data Scientist,TechNova,Pune,1,3,Python,30-03-2024
+91,Data Scientist,NextGen Analytics,Chennai,4,8,SQL,31-03-2024
+92,Data Analyst,InsightWorks,Pune,4,3,Python,01-04-2024
+93,Data Scientist,DataZest,Mumbai,1,7,Excel,02-04-2024
+94,Data Scientist,DataZest,Chennai,3,Not Available,Python,03-04-2024
+95,Data Analyst,InsightWorks,,4,7,Python,04-04-2024
+96,Data Scientist,DataZest,Bangalore,2,8,SQL,05-04-2024
+97,BI Analyst,QuantifyAI,Mumbai,Not Available,10,Excel,06-04-2024
+98,Business Analyst,TechNova,Mumbai,5,3,Tableau,07-04-2024
+99,Business Analyst,QuantifyAI,Mumbai,3,4,Tableau,08-04-2024
+100,Data Analyst,DataZest,Bangalore,1,Not Available,Power BI,09-04-2024
+101,ML Engineer,NextGen Analytics,Bangalore,3,5,Python,10-04-2024
+102,Data Analyst,TechNova,Hyderabad,0,8,Power BI,11-04-2024
+103,ML Engineer,TechNova,Pune,0,7,SQL,12-04-2024
+104,Business Analyst,InsightWorks,Hyderabad,4,4,Tableau,13-04-2024
+105,Data Analyst,InsightWorks,Pune,4,9,Python,14-04-2024
+106,BI Analyst,NextGen Analytics,Bangalore,2,6,SQL,15-04-2024
+107,Data Scientist,TechNova,Bangalore,Not Available,3,SQL,16-04-2024
+108,ML Engineer,NextGen Analytics,Hyderabad,5,6,Python,17-04-2024
+109,Data Scientist,InsightWorks,Chennai,3,8,SQL,18-04-2024
+110,Data Scientist,InsightWorks,Hyderabad,0,9,Python,19-04-2024
+111,Data Analyst,TechNova,Pune,4,9,Python,20-04-2024
+112,Data Scientist,QuantifyAI,Hyderabad,5,9,Excel,21-04-2024
+113,BI Analyst,DataZest,Mumbai,3,5,Power BI,22-04-2024
+114,Data Scientist,InsightWorks,Pune,4,8,SQL,23-04-2024
+115,Data Analyst,InsightWorks,Pune,4,10,SQL,24-04-2024
+116,BI Analyst,QuantifyAI,,0,6,Excel,25-04-2024
+117,Business Analyst,QuantifyAI,Bangalore,0,10,Excel,26-04-2024
+118,Data Scientist,NextGen Analytics,Pune,4,4,Excel,27-04-2024
+119,Data Analyst,NextGen Analytics,Bangalore,1,Not Available,Tableau,28-04-2024
+120,Business Analyst,DataZest,Hyderabad,4,Not Available,Tableau,29-04-2024
+121,Business Analyst,DataZest,Mumbai,5,10,Tableau,30-04-2024
+122,ML Engineer,TechNova,Chennai,4,3,Python,01-05-2024
+123,BI Analyst,NextGen Analytics,Bangalore,2,4,SQL,02-05-2024
+124,Data Scientist,InsightWorks,Pune,Not Available,8,Power BI,03-05-2024
+125,Data Analyst,NextGen Analytics,Bangalore,2,7,Python,04-05-2024
+126,ML Engineer,InsightWorks,Pune,2,Not Available,SQL,05-05-2024
+127,BI Analyst,QuantifyAI,Bangalore,1,7,SQL,06-05-2024
+128,ML Engineer,NextGen Analytics,Pune,1,4,Excel,07-05-2024
+129,BI Analyst,QuantifyAI,Hyderabad,4,6,Excel,08-05-2024
+130,BI Analyst,DataZest,Pune,2,Not Available,Python,09-05-2024
+131,Data Scientist,DataZest,Pune,1,3,Excel,10-05-2024
+132,BI Analyst,TechNova,Mumbai,0,3,SQL,11-05-2024
+133,ML Engineer,NextGen Analytics,Pune,4,9,Excel,12-05-2024
+134,BI Analyst,QuantifyAI,Mumbai,5,5,Tableau,13-05-2024
+135,Data Scientist,InsightWorks,Chennai,Not Available,4,Excel,14-05-2024
+136,Data Scientist,DataZest,Mumbai,3,Not Available,SQL,15-05-2024
+137,ML Engineer,DataZest,Hyderabad,4,5,Python,16-05-2024
+138,Business Analyst,InsightWorks,Mumbai,3,4,Power BI,17-05-2024
+139,Business Analyst,QuantifyAI,Chennai,2,10,Excel,18-05-2024
+140,BI Analyst,QuantifyAI,Hyderabad,Not Available,8,SQL,19-05-2024
+141,Data Analyst,NextGen Analytics,Bangalore,3,8,Power BI,20-05-2024
+142,BI Analyst,NextGen Analytics,Bangalore,2,9,Power BI,21-05-2024
+143,ML Engineer,TechNova,Mumbai,0,9,Tableau,22-05-2024
+144,ML Engineer,DataZest,Mumbai,3,8,Power BI,23-05-2024
+145,ML Engineer,NextGen Analytics,Chennai,Not Available,6,SQL,24-05-2024
+146,ML Engineer,QuantifyAI,Chennai,4,Not Available,SQL,25-05-2024
+147,ML Engineer,InsightWorks,Pune,2,8,Excel,26-05-2024
+148,Data Scientist,QuantifyAI,Chennai,4,6,Excel,27-05-2024
+149,Business Analyst,DataZest,Pune,Not Available,5,Excel,28-05-2024
+150,ML Engineer,QuantifyAI,Hyderabad,1,6,Power BI,29-05-2024
+151,Data Analyst,TechNova,Mumbai,2,5,Power BI,30-05-2024
+152,Data Analyst,DataZest,Hyderabad,3,4,Tableau,31-05-2024
+153,Data Analyst,InsightWorks,Chennai,2,7,Excel,01-06-2024
+154,Data Analyst,TechNova,Hyderabad,4,4,Python,02-06-2024
+155,Data Scientist,DataZest,Hyderabad,0,8,Tableau,03-06-2024
+156,Data Analyst,InsightWorks,Hyderabad,2,5,Python,04-06-2024
+157,ML Engineer,TechNova,Chennai,3,8,Power BI,05-06-2024
+158,BI Analyst,TechNova,Hyderabad,1,Not Available,Tableau,06-06-2024
+159,Data Analyst,DataZest,Pune,5,3,Tableau,07-06-2024
+160,Data Scientist,NextGen Analytics,Chennai,0,8,SQL,08-06-2024
+161,Data Scientist,TechNova,Hyderabad,1,Not Available,Power BI,09-06-2024
+162,Data Analyst,TechNova,Chennai,2,6,Power BI,10-06-2024
+163,BI Analyst,InsightWorks,Bangalore,4,4,Tableau,11-06-2024
+164,Data Analyst,QuantifyAI,Pune,Not Available,6,Power BI,12-06-2024
+165,,DataZest,Hyderabad,4,3,Tableau,13-06-2024
+166,Business Analyst,DataZest,Bangalore,3,5,SQL,14-06-2024
+167,ML Engineer,NextGen Analytics,Bangalore,4,Not Available,Tableau,15-06-2024
+168,Data Scientist,NextGen Analytics,Chennai,0,7,Power BI,16-06-2024
+169,Data Analyst,DataZest,Bangalore,4,8,Power BI,17-06-2024
+170,ML Engineer,NextGen Analytics,Pune,3,5,Tableau,18-06-2024
+171,Data Analyst,InsightWorks,Pune,5,7,Tableau,19-06-2024
+172,Data Analyst,DataZest,Mumbai,2,10,Tableau,20-06-2024
+173,Business Analyst,NextGen Analytics,Pune,Not Available,8,Excel,21-06-2024
+174,ML Engineer,DataZest,Bangalore,2,6,Power BI,22-06-2024
+175,ML Engineer,QuantifyAI,Pune,4,4,Power BI,23-06-2024
+176,Business Analyst,TechNova,Chennai,1,Not Available,Excel,24-06-2024
+177,Data Scientist,DataZest,Mumbai,2,3,Tableau,25-06-2024
+178,Data Analyst,TechNova,Bangalore,5,3,SQL,26-06-2024
+179,BI Analyst,NextGen Analytics,Mumbai,4,6,Tableau,27-06-2024
+180,Data Analyst,TechNova,Bangalore,Not Available,9,Tableau,28-06-2024
+181,Data Analyst,DataZest,Chennai,3,3,Excel,29-06-2024
+182,Data Scientist,QuantifyAI,Mumbai,5,Not Available,Power BI,30-06-2024
+183,Data Analyst,NextGen Analytics,Hyderabad,4,6,Tableau,01-07-2024
+184,Business Analyst,DataZest,Bangalore,5,5,Power BI,02-07-2024
+185,Business Analyst,NextGen Analytics,Hyderabad,2,3,Python,03-07-2024
+186,ML Engineer,InsightWorks,Mumbai,Not Available,6,Power BI,04-07-2024
+187,BI Analyst,TechNova,Hyderabad,3,Not Available,SQL,05-07-2024
+188,Data Analyst,InsightWorks,Hyderabad,4,8,SQL,06-07-2024
+189,Data Analyst,DataZest,Mumbai,0,8,Tableau,07-07-2024
+190,Data Scientist,QuantifyAI,Chennai,3,3,Power BI,08-07-2024
+191,Business Analyst,NextGen Analytics,Hyderabad,0,4,Tableau,09-07-2024
+192,BI Analyst,TechNova,Hyderabad,5,8,Excel,10-07-2024
+193,ML Engineer,NextGen Analytics,Chennai,1,4,SQL,11-07-2024
+194,Business Analyst,DataZest,Hyderabad,3,5,Tableau,12-07-2024
+195,ML Engineer,NextGen Analytics,Hyderabad,5,6,Excel,13-07-2024
+196,Data Scientist,TechNova,Hyderabad,0,7,Tableau,14-07-2024
+197,Data Scientist,DataZest,Pune,2,Not Available,Power BI,15-07-2024
+198,Data Analyst,NextGen Analytics,Chennai,2,6,Power BI,16-07-2024
+199,BI Analyst,QuantifyAI,Hyderabad,1,Not Available,Power BI,17-07-2024
+200,ML Engineer,DataZest,Chennai,3,5,Power BI,18-07-2024
+201,Business Analyst,DataZest,Bangalore,3,10,Python,19-07-2024
+202,Data Scientist,QuantifyAI,Bangalore,3,3,Excel,20-07-2024
+203,Data Analyst,InsightWorks,Hyderabad,5,Not Available,Excel,21-07-2024
+204,Data Analyst,TechNova,Chennai,Not Available,Not Available,Power BI,22-07-2024
+205,ML Engineer,InsightWorks,Chennai,Not Available,4,Python,23-07-2024
+206,Data Scientist,NextGen Analytics,Chennai,1,6,Power BI,24-07-2024
+207,BI Analyst,QuantifyAI,Pune,3,10,Python,25-07-2024
+208,Data Scientist,InsightWorks,Bangalore,5,9,Power BI,26-07-2024
+209,ML Engineer,,Chennai,2,3,SQL,27-07-2024
+210,ML Engineer,NextGen Analytics,Chennai,0,7,SQL,28-07-2024
+211,Data Scientist,NextGen Analytics,Pune,5,9,Tableau,29-07-2024
+212,ML Engineer,InsightWorks,Pune,Not Available,6,Power BI,30-07-2024
+213,Data Scientist,InsightWorks,Chennai,Not Available,3,Excel,31-07-2024
+214,Business Analyst,QuantifyAI,Mumbai,2,Not Available,Tableau,01-08-2024
+215,Data Scientist,TechNova,Chennai,2,7,SQL,02-08-2024
+216,Data Scientist,InsightWorks,Chennai,0,4,Power BI,03-08-2024
+217,ML Engineer,InsightWorks,Pune,2,10,Tableau,04-08-2024
+218,ML Engineer,DataZest,Pune,1,4,Power BI,05-08-2024
+219,Data Analyst,NextGen Analytics,Chennai,0,5,SQL,06-08-2024
+220,Data Analyst,TechNova,Chennai,2,3,Tableau,07-08-2024
+221,Business Analyst,DataZest,Chennai,4,4,SQL,08-08-2024
+222,Data Analyst,QuantifyAI,Pune,5,9,Python,09-08-2024
+223,Data Scientist,QuantifyAI,Chennai,2,4,SQL,10-08-2024
+224,ML Engineer,,Chennai,1,8,Power BI,11-08-2024
+225,Data Analyst,InsightWorks,Hyderabad,3,5,Excel,12-08-2024
+226,Data Analyst,QuantifyAI,Mumbai,2,6,SQL,13-08-2024
+227,Business Analyst,InsightWorks,Bangalore,Not Available,10,Excel,14-08-2024
+228,Business Analyst,TechNova,Mumbai,Not Available,5,Python,15-08-2024
+229,Data Scientist,InsightWorks,Hyderabad,Not Available,8,Tableau,16-08-2024
+230,ML Engineer,NextGen Analytics,Bangalore,3,3,Tableau,17-08-2024
+231,Business Analyst,InsightWorks,Chennai,Not Available,9,Excel,18-08-2024
+232,Data Analyst,DataZest,Hyderabad,4,10,Tableau,19-08-2024
+233,ML Engineer,TechNova,Chennai,2,10,SQL,20-08-2024
+234,ML Engineer,DataZest,Pune,Not Available,5,Excel,21-08-2024
+235,Data Analyst,DataZest,Hyderabad,0,3,Power BI,22-08-2024
+236,Business Analyst,NextGen Analytics,Pune,3,Not Available,SQL,23-08-2024
+237,Data Analyst,TechNova,Hyderabad,4,8,SQL,24-08-2024
+238,ML Engineer,TechNova,Hyderabad,0,Not Available,SQL,25-08-2024
+239,BI Analyst,TechNova,Pune,0,9,Power BI,26-08-2024
+240,BI Analyst,TechNova,Bangalore,0,3,Python,27-08-2024
+241,Data Scientist,TechNova,Mumbai,0,3,Tableau,28-08-2024
+242,Data Analyst,NextGen Analytics,Chennai,2,8,Excel,29-08-2024
+243,Data Analyst,InsightWorks,Hyderabad,Not Available,7,Python,30-08-2024
+244,Data Scientist,DataZest,Chennai,5,Not Available,Excel,31-08-2024
+245,Data Scientist,TechNova,Pune,2,4,Tableau,01-09-2024
+246,Data Scientist,InsightWorks,Chennai,2,10,Power BI,02-09-2024
+247,ML Engineer,InsightWorks,Pune,4,7,SQL,03-09-2024
+248,Data Analyst,DataZest,Chennai,4,4,SQL,04-09-2024
+249,ML Engineer,NextGen Analytics,Mumbai,Not Available,8,Power BI,05-09-2024
+250,Data Scientist,QuantifyAI,Mumbai,5,10,Python,06-09-2024
+251,Data Analyst,QuantifyAI,Mumbai,4,6,Python,07-09-2024
+252,ML Engineer,InsightWorks,Mumbai,Not Available,4,Excel,08-09-2024
+253,ML Engineer,DataZest,,Not Available,7,Power BI,09-09-2024
+254,Data Scientist,QuantifyAI,Mumbai,1,4,Python,10-09-2024
+255,Data Analyst,InsightWorks,Pune,5,4,Power BI,11-09-2024
+256,Data Scientist,NextGen Analytics,Hyderabad,4,8,Tableau,12-09-2024
+257,Data Analyst,QuantifyAI,Chennai,5,Not Available,SQL,13-09-2024
+258,BI Analyst,InsightWorks,Mumbai,2,6,SQL,14-09-2024
+259,Business Analyst,InsightWorks,Pune,2,8,SQL,15-09-2024
+260,Business Analyst,TechNova,Pune,5,9,Power BI,16-09-2024
+261,Business Analyst,NextGen Analytics,Pune,1,8,Power BI,17-09-2024
+262,Data Scientist,TechNova,Hyderabad,1,10,Excel,18-09-2024
+263,BI Analyst,DataZest,Chennai,5,6,SQL,19-09-2024
+264,Data Analyst,TechNova,Hyderabad,4,3,Excel,20-09-2024
+265,ML Engineer,TechNova,Bangalore,3,9,SQL,21-09-2024
+266,Data Analyst,QuantifyAI,Pune,1,5,Excel,22-09-2024
+267,ML Engineer,InsightWorks,Bangalore,0,8,Excel,23-09-2024
+268,Data Analyst,NextGen Analytics,Mumbai,2,4,Tableau,24-09-2024
+269,BI Analyst,TechNova,Mumbai,5,Not Available,Excel,25-09-2024
+270,ML Engineer,NextGen Analytics,,0,3,Power BI,26-09-2024
+271,Data Scientist,TechNova,Chennai,5,8,Excel,27-09-2024
+272,Data Analyst,DataZest,Bangalore,Not Available,8,SQL,28-09-2024
+273,Data Analyst,TechNova,Chennai,2,7,Excel,29-09-2024
+274,ML Engineer,QuantifyAI,Hyderabad,2,7,Python,30-09-2024
+275,Data Scientist,InsightWorks,Mumbai,1,3,SQL,01-10-2024
+276,Data Scientist,DataZest,Chennai,1,7,Python,02-10-2024
+277,BI Analyst,TechNova,Chennai,0,4,SQL,03-10-2024
+278,Data Scientist,NextGen Analytics,Mumbai,Not Available,9,Power BI,04-10-2024
+279,Data Scientist,DataZest,Bangalore,5,5,Power BI,05-10-2024
+280,Data Scientist,DataZest,Mumbai,Not Available,6,Power BI,06-10-2024
+281,Business Analyst,TechNova,Chennai,2,5,Python,07-10-2024
+282,BI Analyst,DataZest,Bangalore,0,5,Tableau,08-10-2024
+283,Data Analyst,NextGen Analytics,Bangalore,3,6,SQL,09-10-2024
+284,ML Engineer,DataZest,Mumbai,0,7,Power BI,10-10-2024
+285,Data Analyst,NextGen Analytics,Chennai,4,3,SQL,11-10-2024
+286,BI Analyst,TechNova,Hyderabad,0,6,Python,12-10-2024
+287,ML Engineer,InsightWorks,Chennai,Not Available,10,Tableau,13-10-2024
+288,BI Analyst,DataZest,Pune,4,9,Python,14-10-2024
+289,Data Scientist,InsightWorks,Hyderabad,4,Not Available,SQL,15-10-2024
+290,ML Engineer,NextGen Analytics,Bangalore,4,7,Tableau,16-10-2024
+291,Data Scientist,DataZest,Hyderabad,3,6,Tableau,17-10-2024
+292,Data Analyst,QuantifyAI,Bangalore,0,10,Python,18-10-2024
+293,Data Analyst,InsightWorks,Bangalore,Not Available,Not Available,Power BI,19-10-2024
+294,ML Engineer,DataZest,Hyderabad,0,9,SQL,20-10-2024
+295,ML Engineer,InsightWorks,Bangalore,3,9,Excel,21-10-2024
+296,BI Analyst,DataZest,Bangalore,2,7,Excel,22-10-2024
+297,BI Analyst,TechNova,Pune,1,6,Python,23-10-2024
+298,,InsightWorks,Chennai,Not Available,3,SQL,24-10-2024
+299,ML Engineer,QuantifyAI,Chennai,Not Available,9,SQL,25-10-2024
+300,Data Analyst,QuantifyAI,Pune,0,3,Python,26-10-2024
+301,BI Analyst,NextGen Analytics,Hyderabad,1,3,SQL,27-10-2024
+302,BI Analyst,DataZest,Mumbai,5,7,Power BI,28-10-2024
+303,Data Analyst,InsightWorks,Mumbai,5,Not Available,Python,29-10-2024
+304,BI Analyst,NextGen Analytics,Mumbai,3,8,Power BI,30-10-2024
+305,Data Scientist,InsightWorks,Pune,5,5,SQL,31-10-2024
+306,ML Engineer,DataZest,Pune,Not Available,5,Python,01-11-2024
+307,Data Analyst,QuantifyAI,Bangalore,5,9,SQL,02-11-2024
+308,ML Engineer,TechNova,Mumbai,2,8,Python,03-11-2024
+309,BI Analyst,QuantifyAI,Hyderabad,2,Not Available,SQL,04-11-2024
+310,BI Analyst,NextGen Analytics,Hyderabad,2,8,Power BI,05-11-2024
+311,Data Analyst,TechNova,Mumbai,5,7,Power BI,06-11-2024
+312,Data Scientist,NextGen Analytics,Mumbai,3,9,SQL,07-11-2024
+313,Business Analyst,DataZest,Mumbai,4,3,Python,08-11-2024
+314,Data Analyst,TechNova,Pune,4,9,Excel,09-11-2024
+315,Business Analyst,NextGen Analytics,Pune,1,5,Power BI,10-11-2024
+316,Business Analyst,DataZest,Pune,4,Not Available,Power BI,11-11-2024
+317,Data Scientist,QuantifyAI,,4,8,Excel,12-11-2024
+318,Business Analyst,DataZest,Hyderabad,2,Not Available,SQL,13-11-2024
+319,Business Analyst,InsightWorks,Hyderabad,2,7,Python,14-11-2024
+320,Data Scientist,DataZest,Bangalore,5,9,SQL,15-11-2024
+321,Business Analyst,DataZest,Pune,1,6,Tableau,16-11-2024
+322,Business Analyst,InsightWorks,Chennai,0,9,Power BI,17-11-2024
+323,Business Analyst,NextGen Analytics,Chennai,Not Available,3,Tableau,18-11-2024
+324,Data Analyst,NextGen Analytics,Hyderabad,1,9,Power BI,19-11-2024
+325,Data Analyst,DataZest,Pune,1,10,Power BI,20-11-2024
+326,Data Analyst,InsightWorks,Bangalore,3,7,Tableau,21-11-2024
+327,Data Scientist,InsightWorks,Pune,5,4,Tableau,22-11-2024
+328,BI Analyst,QuantifyAI,Mumbai,3,7,SQL,23-11-2024
+329,Business Analyst,NextGen Analytics,Pune,1,8,Tableau,24-11-2024
+330,Business Analyst,TechNova,Mumbai,1,4,SQL,25-11-2024
+331,Data Scientist,NextGen Analytics,Mumbai,1,8,SQL,26-11-2024
+332,Business Analyst,NextGen Analytics,Bangalore,4,8,SQL,27-11-2024
+333,Data Analyst,QuantifyAI,Hyderabad,Not Available,3,Power BI,28-11-2024
+334,BI Analyst,TechNova,Pune,Not Available,3,Power BI,29-11-2024
+335,ML Engineer,QuantifyAI,Mumbai,3,5,Tableau,30-11-2024
+336,Business Analyst,TechNova,Pune,1,5,Power BI,01-12-2024
+337,Data Analyst,DataZest,Hyderabad,Not Available,6,Tableau,02-12-2024
+338,ML Engineer,TechNova,Hyderabad,2,4,Power BI,03-12-2024
+339,BI Analyst,QuantifyAI,Chennai,Not Available,Not Available,Python,04-12-2024
+340,ML Engineer,NextGen Analytics,Hyderabad,5,9,Python,05-12-2024
+341,Data Analyst,TechNova,Bangalore,5,9,Tableau,06-12-2024
+342,ML Engineer,TechNova,Mumbai,Not Available,8,Power BI,07-12-2024
+343,Data Scientist,InsightWorks,Chennai,2,5,Power BI,08-12-2024
+344,ML Engineer,NextGen Analytics,Bangalore,5,8,SQL,09-12-2024
+345,Business Analyst,DataZest,Pune,4,10,Excel,10-12-2024
+346,Business Analyst,QuantifyAI,Mumbai,Not Available,10,Tableau,11-12-2024
+347,Data Scientist,DataZest,Hyderabad,4,Not Available,Excel,12-12-2024
+348,Data Analyst,NextGen Analytics,Mumbai,Not Available,3,Excel,13-12-2024
+349,Business Analyst,TechNova,Pune,0,3,Tableau,14-12-2024
+350,BI Analyst,TechNova,Chennai,0,5,Power BI,15-12-2024
+351,Business Analyst,NextGen Analytics,Chennai,0,5,Tableau,16-12-2024
+352,Business Analyst,TechNova,Chennai,5,10,Excel,17-12-2024
+353,Data Analyst,TechNova,Hyderabad,4,3,Power BI,18-12-2024
+354,ML Engineer,TechNova,Bangalore,4,4,Python,19-12-2024
+355,Business Analyst,QuantifyAI,Bangalore,4,4,Tableau,20-12-2024
+356,Data Scientist,QuantifyAI,Mumbai,2,5,Tableau,21-12-2024
+357,ML Engineer,InsightWorks,Hyderabad,4,8,Power BI,22-12-2024
+358,BI Analyst,DataZest,Chennai,2,3,Python,23-12-2024
+359,Data Analyst,NextGen Analytics,Chennai,0,4,Python,24-12-2024
+360,BI Analyst,NextGen Analytics,Pune,0,3,Power BI,25-12-2024
+361,ML Engineer,NextGen Analytics,Pune,5,7,SQL,26-12-2024
+362,ML Engineer,InsightWorks,Chennai,Not Available,9,Tableau,27-12-2024
+363,ML Engineer,QuantifyAI,Chennai,0,10,Tableau,28-12-2024
+364,BI Analyst,InsightWorks,Hyderabad,Not Available,3,Excel,29-12-2024
+365,ML Engineer,NextGen Analytics,Bangalore,Not Available,9,Power BI,30-12-2024
+366,BI Analyst,DataZest,Pune,5,7,Excel,31-12-2024
+367,ML Engineer,TechNova,Bangalore,1,3,Excel,01-01-2025
+368,Data Scientist,QuantifyAI,,1,5,Python,02-01-2025
+369,ML Engineer,QuantifyAI,Chennai,3,9,Tableau,03-01-2025
+370,BI Analyst,InsightWorks,Bangalore,5,3,Excel,04-01-2025
+371,Business Analyst,QuantifyAI,Chennai,3,9,Python,05-01-2025
+372,ML Engineer,,Chennai,3,7,Power BI,06-01-2025
+373,Business Analyst,NextGen Analytics,Mumbai,1,3,Excel,07-01-2025
+374,Data Scientist,InsightWorks,Bangalore,5,3,Tableau,08-01-2025
+375,Data Analyst,NextGen Analytics,Bangalore,1,3,Excel,09-01-2025
+376,Data Scientist,DataZest,Chennai,3,Not Available,Power BI,10-01-2025
+377,ML Engineer,InsightWorks,Hyderabad,5,5,Excel,11-01-2025
+378,Business Analyst,DataZest,Mumbai,3,7,Tableau,12-01-2025
+379,Business Analyst,TechNova,Chennai,4,Not Available,Python,13-01-2025
+380,BI Analyst,DataZest,Pune,Not Available,8,Tableau,14-01-2025
+381,Business Analyst,TechNova,Pune,5,Not Available,Python,15-01-2025
+382,BI Analyst,TechNova,Mumbai,5,10,SQL,16-01-2025
+383,,DataZest,Hyderabad,Not Available,10,Tableau,17-01-2025
+384,ML Engineer,InsightWorks,Chennai,3,3,Tableau,18-01-2025
+385,BI Analyst,NextGen Analytics,Bangalore,4,Not Available,Power BI,19-01-2025
+386,Data Analyst,NextGen Analytics,Mumbai,2,8,Excel,20-01-2025
+387,Business Analyst,TechNova,Hyderabad,Not Available,Not Available,Python,21-01-2025
+388,Business Analyst,TechNova,Bangalore,1,5,Python,22-01-2025
+389,Data Analyst,,Pune,3,5,Power BI,23-01-2025
+390,Business Analyst,QuantifyAI,Pune,Not Available,8,Power BI,24-01-2025
+391,Data Analyst,DataZest,Bangalore,Not Available,Not Available,Excel,25-01-2025
+392,BI Analyst,TechNova,Mumbai,5,9,Excel,26-01-2025
+393,BI Analyst,NextGen Analytics,Pune,1,5,Tableau,27-01-2025
+394,Data Analyst,InsightWorks,Chennai,1,5,SQL,28-01-2025
+395,BI Analyst,DataZest,Bangalore,1,4,Excel,29-01-2025
+396,BI Analyst,InsightWorks,Bangalore,Not Available,Not Available,Power BI,30-01-2025
+397,BI Analyst,DataZest,Pune,2,5,Excel,31-01-2025
+398,Data Scientist,DataZest,Mumbai,0,7,Python,01-02-2025
+399,ML Engineer,TechNova,Chennai,3,Not Available,SQL,02-02-2025
+400,Business Analyst,InsightWorks,Mumbai,0,10,Tableau,03-02-2025
+401,Data Scientist,InsightWorks,Hyderabad,Not Available,4,Python,04-02-2025
+402,BI Analyst,NextGen Analytics,Hyderabad,0,5,Python,05-02-2025
+403,Data Analyst,NextGen Analytics,Pune,Not Available,4,SQL,06-02-2025
+404,BI Analyst,TechNova,Pune,0,10,Tableau,07-02-2025
+405,ML Engineer,TechNova,Pune,1,8,Power BI,08-02-2025
+406,BI Analyst,QuantifyAI,Hyderabad,4,8,Tableau,09-02-2025
+407,Data Analyst,NextGen Analytics,Mumbai,1,Not Available,Excel,10-02-2025
+408,ML Engineer,DataZest,Mumbai,1,10,Python,11-02-2025
+409,BI Analyst,InsightWorks,Pune,5,6,Excel,12-02-2025
+410,ML Engineer,TechNova,Chennai,5,6,Power BI,13-02-2025
+411,Business Analyst,InsightWorks,Mumbai,0,Not Available,Excel,14-02-2025
+412,Business Analyst,InsightWorks,Hyderabad,Not Available,3,Tableau,15-02-2025
+413,BI Analyst,QuantifyAI,Bangalore,1,4,Excel,16-02-2025
+414,ML Engineer,NextGen Analytics,Bangalore,0,4,Power BI,17-02-2025
+415,Data Analyst,TechNova,,5,8,Power BI,18-02-2025
+416,BI Analyst,InsightWorks,Chennai,4,6,Power BI,19-02-2025
+417,Business Analyst,TechNova,Pune,3,5,Tableau,20-02-2025
+418,Business Analyst,DataZest,Hyderabad,0,5,Power BI,21-02-2025
+419,BI Analyst,QuantifyAI,Chennai,4,5,Python,22-02-2025
+420,ML Engineer,DataZest,Hyderabad,3,8,Power BI,23-02-2025
+421,Business Analyst,TechNova,Hyderabad,2,10,Excel,24-02-2025
+422,ML Engineer,TechNova,Pune,0,9,Excel,25-02-2025
+423,Business Analyst,NextGen Analytics,Bangalore,0,6,Excel,26-02-2025
+424,Business Analyst,InsightWorks,Pune,2,6,Tableau,27-02-2025
+425,Data Scientist,InsightWorks,Chennai,2,4,Excel,28-02-2025
+426,Business Analyst,DataZest,Chennai,0,3,Tableau,01-03-2025
+427,Data Analyst,QuantifyAI,Chennai,2,Not Available,Tableau,02-03-2025
+428,BI Analyst,InsightWorks,Pune,1,4,Power BI,03-03-2025
+429,BI Analyst,NextGen Analytics,Hyderabad,3,10,Python,04-03-2025
+430,ML Engineer,DataZest,Hyderabad,3,Not Available,Power BI,05-03-2025
+431,Business Analyst,DataZest,Mumbai,3,6,Power BI,06-03-2025
+432,Data Analyst,,Chennai,1,10,Tableau,07-03-2025
+433,ML Engineer,QuantifyAI,Hyderabad,Not Available,Not Available,Tableau,08-03-2025
+434,Data Scientist,NextGen Analytics,Mumbai,2,7,Excel,09-03-2025
+435,ML Engineer,QuantifyAI,Hyderabad,4,9,Excel,10-03-2025
+436,ML Engineer,NextGen Analytics,Chennai,2,6,Power BI,11-03-2025
+437,Business Analyst,NextGen Analytics,Bangalore,0,3,SQL,12-03-2025
+438,Data Scientist,TechNova,Chennai,5,5,SQL,13-03-2025
+439,ML Engineer,DataZest,Pune,3,7,Excel,14-03-2025
+440,Data Analyst,NextGen Analytics,Hyderabad,2,5,SQL,15-03-2025
+441,Data Analyst,NextGen Analytics,Hyderabad,4,9,Excel,16-03-2025
+442,BI Analyst,InsightWorks,Pune,0,Not Available,Tableau,17-03-2025
+443,Data Scientist,DataZest,Pune,1,8,Power BI,18-03-2025
+444,Data Scientist,InsightWorks,Bangalore,Not Available,3,Python,19-03-2025
+445,BI Analyst,DataZest,Hyderabad,1,9,Power BI,20-03-2025
+446,ML Engineer,,Hyderabad,4,5,Excel,21-03-2025
+447,Data Scientist,NextGen Analytics,,0,7,Excel,22-03-2025
+448,Data Analyst,NextGen Analytics,Mumbai,3,6,Power BI,23-03-2025
+449,Data Analyst,TechNova,Bangalore,2,7,Excel,24-03-2025
+450,Business Analyst,InsightWorks,Chennai,0,7,SQL,25-03-2025
+451,Data Scientist,QuantifyAI,Hyderabad,Not Available,8,SQL,26-03-2025
+452,ML Engineer,TechNova,Pune,1,8,Excel,27-03-2025
+453,BI Analyst,InsightWorks,Chennai,Not Available,10,Excel,28-03-2025
+454,BI Analyst,InsightWorks,Hyderabad,Not Available,10,SQL,29-03-2025
+455,ML Engineer,TechNova,Bangalore,4,Not Available,Excel,30-03-2025
+456,Business Analyst,NextGen Analytics,Chennai,4,10,Excel,31-03-2025
+457,BI Analyst,InsightWorks,Hyderabad,2,4,Power BI,01-04-2025
+458,Data Scientist,NextGen Analytics,Mumbai,4,3,Python,02-04-2025
+459,Business Analyst,TechNova,Mumbai,4,4,SQL,03-04-2025
+460,Data Scientist,NextGen Analytics,Pune,0,4,Power BI,04-04-2025
+461,Data Analyst,DataZest,Hyderabad,3,5,Python,05-04-2025
+462,Business Analyst,QuantifyAI,Mumbai,2,9,Excel,06-04-2025
+463,BI Analyst,InsightWorks,Bangalore,0,4,Excel,07-04-2025
+464,Business Analyst,QuantifyAI,Hyderabad,3,3,Power BI,08-04-2025
+465,Business Analyst,NextGen Analytics,Bangalore,Not Available,8,Excel,09-04-2025
+466,Business Analyst,InsightWorks,Bangalore,0,Not Available,Tableau,10-04-2025
+467,Business Analyst,NextGen Analytics,Mumbai,5,5,Power BI,11-04-2025
+468,Data Scientist,DataZest,Hyderabad,0,8,Python,12-04-2025
+469,Data Analyst,TechNova,Chennai,4,5,Power BI,13-04-2025
+470,ML Engineer,InsightWorks,Mumbai,3,3,SQL,14-04-2025
+471,Business Analyst,DataZest,Mumbai,2,7,Power BI,15-04-2025
+472,BI Analyst,DataZest,Hyderabad,2,6,Excel,16-04-2025
+473,Business Analyst,InsightWorks,Hyderabad,3,9,Excel,17-04-2025
+474,BI Analyst,NextGen Analytics,Bangalore,4,8,Tableau,18-04-2025
+475,Data Scientist,DataZest,Hyderabad,1,9,Tableau,19-04-2025
+476,BI Analyst,QuantifyAI,Bangalore,0,7,Tableau,20-04-2025
+477,ML Engineer,DataZest,Mumbai,4,6,Python,21-04-2025
+478,Data Analyst,NextGen Analytics,Pune,5,9,Tableau,22-04-2025
+479,BI Analyst,NextGen Analytics,Chennai,Not Available,9,Python,23-04-2025
+480,BI Analyst,QuantifyAI,Mumbai,3,8,Tableau,24-04-2025
+481,Data Analyst,DataZest,Hyderabad,0,10,Python,25-04-2025
+482,ML Engineer,NextGen Analytics,Chennai,2,6,Power BI,26-04-2025
+483,Business Analyst,InsightWorks,Pune,Not Available,7,Power BI,27-04-2025
+484,,TechNova,Pune,1,6,Excel,28-04-2025
+485,Data Analyst,TechNova,Bangalore,5,3,Python,29-04-2025
+486,Data Scientist,TechNova,Chennai,2,10,SQL,30-04-2025
+487,Data Analyst,DataZest,Bangalore,3,3,Excel,01-05-2025
+488,Data Scientist,QuantifyAI,Mumbai,0,7,Power BI,02-05-2025
+489,ML Engineer,NextGen Analytics,Chennai,3,8,Python,03-05-2025
+490,Business Analyst,InsightWorks,Mumbai,Not Available,8,Tableau,04-05-2025
+491,Data Analyst,InsightWorks,Bangalore,0,7,SQL,05-05-2025
+492,BI Analyst,DataZest,Chennai,4,5,Power BI,06-05-2025
+493,ML Engineer,TechNova,Bangalore,1,7,Excel,07-05-2025
+494,Data Analyst,DataZest,Chennai,4,10,Python,08-05-2025
+495,BI Analyst,QuantifyAI,Bangalore,4,4,SQL,09-05-2025
+496,Data Analyst,QuantifyAI,Pune,3,8,Python,10-05-2025
+497,Data Scientist,NextGen Analytics,Bangalore,Not Available,Not Available,Tableau,11-05-2025
+498,Data Analyst,NextGen Analytics,Pune,1,10,Excel,12-05-2025
+499,Data Analyst,QuantifyAI,Bangalore,0,10,Python,13-05-2025
+500,Data Analyst,QuantifyAI,Chennai,0,10,Power BI,14-05-2025
+501,ML Engineer,QuantifyAI,Chennai,5,9,Excel,15-05-2025
+502,Data Analyst,DataZest,Chennai,2,10,Power BI,16-05-2025
+503,BI Analyst,QuantifyAI,Hyderabad,5,8,Python,17-05-2025
+504,Data Scientist,InsightWorks,Mumbai,5,4,Excel,18-05-2025
+505,Data Scientist,TechNova,Chennai,0,4,Power BI,19-05-2025
+506,Data Analyst,QuantifyAI,Pune,3,10,Tableau,20-05-2025
+507,ML Engineer,TechNova,Chennai,4,3,Tableau,21-05-2025
+508,ML Engineer,DataZest,Hyderabad,Not Available,8,Python,22-05-2025
+509,BI Analyst,TechNova,Pune,4,8,Excel,23-05-2025
+510,Data Analyst,DataZest,Hyderabad,4,6,SQL,24-05-2025
+511,Data Scientist,InsightWorks,Pune,1,5,Excel,25-05-2025
+512,ML Engineer,DataZest,Bangalore,0,5,Tableau,26-05-2025
+513,Data Analyst,DataZest,Mumbai,Not Available,3,Power BI,27-05-2025
+514,ML Engineer,NextGen Analytics,Mumbai,3,5,SQL,28-05-2025
+515,ML Engineer,QuantifyAI,Hyderabad,1,6,Python,29-05-2025
+516,Data Scientist,QuantifyAI,Mumbai,2,7,SQL,30-05-2025
+517,Business Analyst,InsightWorks,Hyderabad,3,5,Python,31-05-2025
+518,BI Analyst,InsightWorks,Hyderabad,5,8,SQL,01-06-2025
+519,BI Analyst,QuantifyAI,Hyderabad,3,7,Python,02-06-2025
+520,Data Scientist,NextGen Analytics,Mumbai,3,5,Python,03-06-2025
+521,ML Engineer,QuantifyAI,Hyderabad,4,8,SQL,04-06-2025
+522,Data Analyst,NextGen Analytics,Mumbai,3,8,SQL,05-06-2025
+523,ML Engineer,InsightWorks,Hyderabad,5,10,Python,06-06-2025
+524,Data Scientist,TechNova,Chennai,5,4,Tableau,07-06-2025
+525,BI Analyst,InsightWorks,Hyderabad,0,3,SQL,08-06-2025
+526,ML Engineer,InsightWorks,Pune,3,6,Excel,09-06-2025
+527,BI Analyst,DataZest,Hyderabad,4,9,Power BI,10-06-2025
+528,Data Analyst,DataZest,Bangalore,3,5,Python,11-06-2025
+529,BI Analyst,DataZest,Hyderabad,2,5,Python,12-06-2025
+530,BI Analyst,DataZest,Pune,2,7,Power BI,13-06-2025
+531,Business Analyst,NextGen Analytics,Pune,4,7,Tableau,14-06-2025
+532,Business Analyst,QuantifyAI,Mumbai,0,5,Power BI,15-06-2025
+533,Business Analyst,TechNova,Chennai,0,Not Available,SQL,16-06-2025
+534,BI Analyst,InsightWorks,Hyderabad,5,6,Power BI,17-06-2025
+535,Data Scientist,NextGen Analytics,Mumbai,5,5,Python,18-06-2025
+536,BI Analyst,TechNova,Chennai,1,4,Power BI,19-06-2025
+537,Data Scientist,NextGen Analytics,Hyderabad,4,Not Available,Excel,20-06-2025
+538,Data Scientist,NextGen Analytics,Bangalore,3,6,SQL,21-06-2025
+539,Business Analyst,InsightWorks,Hyderabad,Not Available,5,Power BI,22-06-2025
+540,ML Engineer,QuantifyAI,Pune,4,9,Python,23-06-2025
+541,Data Analyst,DataZest,Pune,1,10,SQL,24-06-2025
+542,Business Analyst,QuantifyAI,Bangalore,5,4,Python,25-06-2025
+543,Business Analyst,InsightWorks,Mumbai,4,9,Tableau,26-06-2025
+544,ML Engineer,InsightWorks,Chennai,4,7,Excel,27-06-2025
+545,Data Analyst,InsightWorks,Hyderabad,5,7,Tableau,28-06-2025
+546,BI Analyst,TechNova,Pune,1,5,Excel,29-06-2025
+547,BI Analyst,QuantifyAI,Mumbai,5,7,Power BI,30-06-2025
+548,Business Analyst,QuantifyAI,Bangalore,0,4,SQL,01-07-2025
+549,Data Analyst,NextGen Analytics,Pune,3,6,Power BI,02-07-2025
+550,Business Analyst,NextGen Analytics,Bangalore,5,8,Excel,03-07-2025
+551,Data Scientist,NextGen Analytics,Hyderabad,1,3,Excel,04-07-2025
+552,Business Analyst,InsightWorks,Chennai,2,6,Excel,05-07-2025
+553,Business Analyst,QuantifyAI,Pune,0,8,Python,06-07-2025
+554,BI Analyst,InsightWorks,Pune,2,Not Available,SQL,07-07-2025
+555,BI Analyst,TechNova,Hyderabad,Not Available,4,Power BI,08-07-2025
+556,BI Analyst,NextGen Analytics,Mumbai,5,9,Power BI,09-07-2025
+557,Data Scientist,InsightWorks,Chennai,0,8,Tableau,10-07-2025
+558,BI Analyst,InsightWorks,Pune,3,4,Excel,11-07-2025
+559,Data Analyst,TechNova,Chennai,5,10,Excel,12-07-2025
+560,ML Engineer,,Pune,3,9,Excel,13-07-2025
+561,Data Analyst,QuantifyAI,Chennai,4,7,Power BI,14-07-2025
+562,Data Analyst,DataZest,Bangalore,2,7,Tableau,15-07-2025
+563,BI Analyst,NextGen Analytics,Pune,0,9,Python,16-07-2025
+564,ML Engineer,InsightWorks,Chennai,3,Not Available,SQL,17-07-2025
+565,ML Engineer,TechNova,Mumbai,1,Not Available,Python,18-07-2025
+566,ML Engineer,TechNova,Bangalore,3,Not Available,Power BI,19-07-2025
+567,Data Scientist,QuantifyAI,Bangalore,1,8,Excel,20-07-2025
+568,BI Analyst,DataZest,Mumbai,5,8,SQL,21-07-2025
+569,ML Engineer,QuantifyAI,Chennai,0,5,Power BI,22-07-2025
+570,Data Scientist,InsightWorks,Hyderabad,3,3,Power BI,23-07-2025
+571,Business Analyst,QuantifyAI,Mumbai,Not Available,9,Power BI,24-07-2025
+572,Business Analyst,TechNova,Chennai,3,6,SQL,25-07-2025
+573,Data Scientist,TechNova,Mumbai,Not Available,3,SQL,26-07-2025
+574,Data Scientist,NextGen Analytics,Mumbai,0,10,Tableau,27-07-2025
+575,,NextGen Analytics,Pune,3,8,Tableau,28-07-2025
+576,BI Analyst,InsightWorks,Chennai,1,8,Python,29-07-2025
+577,Business Analyst,DataZest,Hyderabad,3,4,SQL,30-07-2025
+578,ML Engineer,QuantifyAI,Pune,2,3,SQL,31-07-2025
+579,Business Analyst,InsightWorks,Mumbai,5,4,SQL,01-08-2025
+580,ML Engineer,NextGen Analytics,Mumbai,4,6,Tableau,02-08-2025
+581,ML Engineer,QuantifyAI,Mumbai,1,4,Power BI,03-08-2025
+582,BI Analyst,NextGen Analytics,Chennai,2,3,Excel,04-08-2025
+583,Data Analyst,QuantifyAI,Chennai,Not Available,9,Tableau,05-08-2025
+584,Data Analyst,DataZest,Pune,5,10,SQL,06-08-2025
+585,Data Scientist,InsightWorks,Hyderabad,0,8,Tableau,07-08-2025
+586,BI Analyst,QuantifyAI,Pune,1,6,Python,08-08-2025
+587,ML Engineer,TechNova,Bangalore,4,8,SQL,09-08-2025
+588,Data Analyst,TechNova,Mumbai,5,5,Python,10-08-2025
+589,ML Engineer,QuantifyAI,Mumbai,Not Available,10,SQL,11-08-2025
+590,Data Analyst,QuantifyAI,Mumbai,4,4,Tableau,12-08-2025
+591,Data Analyst,QuantifyAI,Pune,0,7,Power BI,13-08-2025
+592,Data Analyst,TechNova,Pune,0,3,Excel,14-08-2025
+593,BI Analyst,TechNova,Mumbai,Not Available,8,Python,15-08-2025
+594,Business Analyst,QuantifyAI,Pune,1,4,Tableau,16-08-2025
+595,ML Engineer,NextGen Analytics,Chennai,Not Available,6,Power BI,17-08-2025
+596,BI Analyst,NextGen Analytics,Chennai,3,8,Tableau,18-08-2025
+597,BI Analyst,DataZest,Pune,0,10,Python,19-08-2025
+598,BI Analyst,InsightWorks,Mumbai,5,10,Excel,20-08-2025
+599,BI Analyst,NextGen Analytics,Pune,3,8,Tableau,21-08-2025
+600,BI Analyst,TechNova,Pune,2,6,SQL,22-08-2025
+601,Data Scientist,NextGen Analytics,Pune,4,10,Power BI,23-08-2025
+602,ML Engineer,DataZest,Bangalore,3,10,Tableau,24-08-2025
+603,BI Analyst,DataZest,Chennai,4,3,Power BI,25-08-2025
+604,ML Engineer,InsightWorks,Hyderabad,Not Available,6,SQL,26-08-2025
+605,Data Scientist,NextGen Analytics,Hyderabad,3,6,Excel,27-08-2025
+606,Data Scientist,TechNova,Bangalore,Not Available,9,Excel,28-08-2025
+607,ML Engineer,TechNova,Pune,2,9,SQL,29-08-2025
+608,Data Analyst,QuantifyAI,Bangalore,0,10,Power BI,30-08-2025
+609,Business Analyst,TechNova,Bangalore,2,7,Tableau,31-08-2025
+610,Data Analyst,InsightWorks,Mumbai,0,9,SQL,01-09-2025
+611,Data Analyst,InsightWorks,,Not Available,10,Python,02-09-2025
+612,Data Analyst,TechNova,Hyderabad,0,Not Available,Power BI,03-09-2025
+613,BI Analyst,TechNova,Pune,4,5,Excel,04-09-2025
+614,Data Scientist,QuantifyAI,Hyderabad,5,5,SQL,05-09-2025
+615,Data Analyst,TechNova,Hyderabad,2,6,Excel,06-09-2025
+616,Data Scientist,QuantifyAI,Chennai,3,7,Power BI,07-09-2025
+617,ML Engineer,QuantifyAI,Hyderabad,2,3,Excel,08-09-2025
+618,Business Analyst,TechNova,Hyderabad,4,9,SQL,09-09-2025
+619,ML Engineer,DataZest,Bangalore,0,Not Available,Power BI,10-09-2025
+620,ML Engineer,DataZest,Chennai,4,10,Python,11-09-2025
+621,BI Analyst,QuantifyAI,Mumbai,1,7,SQL,12-09-2025
+622,Business Analyst,TechNova,Pune,1,6,Tableau,13-09-2025
+623,ML Engineer,DataZest,Hyderabad,3,9,SQL,14-09-2025
+624,ML Engineer,TechNova,Pune,4,7,Power BI,15-09-2025
+625,Business Analyst,TechNova,Mumbai,Not Available,9,SQL,16-09-2025
+626,Business Analyst,TechNova,Pune,3,3,Python,17-09-2025
+627,ML Engineer,NextGen Analytics,Mumbai,Not Available,3,Python,18-09-2025
+628,Business Analyst,TechNova,Bangalore,3,5,Tableau,19-09-2025
+629,ML Engineer,NextGen Analytics,Hyderabad,1,4,Excel,20-09-2025
+630,ML Engineer,QuantifyAI,Mumbai,3,4,Power BI,21-09-2025
+631,BI Analyst,DataZest,Pune,1,9,Power BI,22-09-2025
+632,Data Analyst,DataZest,Hyderabad,0,4,Excel,23-09-2025
+633,ML Engineer,DataZest,Bangalore,Not Available,6,Python,24-09-2025
+634,Data Scientist,DataZest,Hyderabad,4,4,Python,25-09-2025
+635,Data Analyst,DataZest,Mumbai,3,8,SQL,26-09-2025
+636,Data Analyst,DataZest,Bangalore,1,10,Tableau,27-09-2025
+637,Data Analyst,DataZest,Pune,2,6,Tableau,28-09-2025
+638,BI Analyst,QuantifyAI,Bangalore,Not Available,7,Tableau,29-09-2025
+639,ML Engineer,TechNova,Bangalore,3,6,SQL,30-09-2025
+640,BI Analyst,InsightWorks,Chennai,5,5,Tableau,01-10-2025
+641,ML Engineer,NextGen Analytics,Bangalore,0,7,Excel,02-10-2025
+642,BI Analyst,InsightWorks,Bangalore,0,Not Available,SQL,03-10-2025
+643,BI Analyst,InsightWorks,Hyderabad,2,10,Excel,04-10-2025
+644,Data Scientist,TechNova,Pune,1,10,SQL,05-10-2025
+645,BI Analyst,TechNova,Hyderabad,3,10,Tableau,06-10-2025
+646,Business Analyst,TechNova,Hyderabad,Not Available,10,Excel,07-10-2025
+647,Data Scientist,DataZest,Mumbai,1,9,Excel,08-10-2025
+648,BI Analyst,QuantifyAI,Hyderabad,0,10,Excel,09-10-2025
+649,Data Analyst,DataZest,Chennai,1,10,SQL,10-10-2025
+650,Business Analyst,QuantifyAI,Chennai,0,10,Power BI,11-10-2025
+651,Business Analyst,QuantifyAI,Mumbai,1,9,Tableau,12-10-2025
+652,Business Analyst,InsightWorks,Pune,2,3,Excel,13-10-2025
+653,Data Scientist,InsightWorks,Pune,4,6,Power BI,14-10-2025
+654,BI Analyst,QuantifyAI,Hyderabad,2,6,Tableau,15-10-2025
+655,BI Analyst,QuantifyAI,Hyderabad,2,7,Tableau,16-10-2025
+656,Data Analyst,DataZest,Hyderabad,4,8,Excel,17-10-2025
+657,Data Analyst,DataZest,Pune,4,6,Excel,18-10-2025
+658,Business Analyst,InsightWorks,Bangalore,3,4,SQL,19-10-2025
+659,Data Analyst,TechNova,Chennai,Not Available,8,Power BI,20-10-2025
+660,Data Scientist,QuantifyAI,Bangalore,Not Available,10,Power BI,21-10-2025
+661,BI Analyst,DataZest,Bangalore,3,10,Excel,22-10-2025
+662,Business Analyst,InsightWorks,Pune,2,9,Tableau,23-10-2025
+663,Data Analyst,DataZest,Bangalore,2,8,Excel,24-10-2025
+664,Data Scientist,QuantifyAI,Mumbai,0,4,Tableau,25-10-2025
+665,Data Scientist,QuantifyAI,Hyderabad,0,9,Tableau,26-10-2025
+666,Data Analyst,NextGen Analytics,Mumbai,Not Available,7,Excel,27-10-2025
+667,BI Analyst,TechNova,Chennai,3,8,Python,28-10-2025
+668,Data Analyst,NextGen Analytics,Hyderabad,5,10,Power BI,29-10-2025
+669,Business Analyst,InsightWorks,Bangalore,5,10,Tableau,30-10-2025
+670,Data Analyst,DataZest,Chennai,3,5,Tableau,31-10-2025
+671,Data Scientist,InsightWorks,Hyderabad,0,9,Python,01-11-2025
+672,Data Analyst,QuantifyAI,Bangalore,Not Available,3,SQL,02-11-2025
+673,BI Analyst,NextGen Analytics,Mumbai,Not Available,3,Python,03-11-2025
+674,ML Engineer,NextGen Analytics,Hyderabad,0,9,Python,04-11-2025
+675,Data Analyst,NextGen Analytics,Bangalore,5,Not Available,Tableau,05-11-2025
+676,BI Analyst,InsightWorks,Mumbai,1,9,Power BI,06-11-2025
+677,BI Analyst,QuantifyAI,Chennai,1,7,Python,07-11-2025
+678,Data Scientist,DataZest,Chennai,0,10,SQL,08-11-2025
+679,BI Analyst,DataZest,Chennai,1,4,Excel,09-11-2025
+680,BI Analyst,InsightWorks,Chennai,4,Not Available,Python,10-11-2025
+681,BI Analyst,NextGen Analytics,Pune,3,8,Python,11-11-2025
+682,BI Analyst,TechNova,Hyderabad,3,Not Available,SQL,12-11-2025
+683,Business Analyst,InsightWorks,Hyderabad,0,4,Power BI,13-11-2025
+684,Business Analyst,InsightWorks,Pune,2,5,Python,14-11-2025
+685,Data Scientist,QuantifyAI,Bangalore,5,10,Python,15-11-2025
+686,Data Analyst,DataZest,Bangalore,0,3,Power BI,16-11-2025
+687,BI Analyst,,Chennai,1,9,SQL,17-11-2025
+688,Data Analyst,InsightWorks,Mumbai,5,9,Python,18-11-2025
+689,Data Analyst,NextGen Analytics,Bangalore,2,3,Power BI,19-11-2025
+690,,NextGen Analytics,Mumbai,1,Not Available,Python,20-11-2025
+691,BI Analyst,TechNova,Hyderabad,Not Available,10,Excel,21-11-2025
+692,BI Analyst,QuantifyAI,Mumbai,4,6,Tableau,22-11-2025
+693,ML Engineer,TechNova,Hyderabad,1,7,Excel,23-11-2025
+694,Data Analyst,NextGen Analytics,Pune,4,4,Python,24-11-2025
+695,Data Analyst,DataZest,Pune,5,Not Available,SQL,25-11-2025
+696,Business Analyst,NextGen Analytics,Chennai,4,8,Tableau,26-11-2025
+697,ML Engineer,QuantifyAI,Bangalore,5,5,Excel,27-11-2025
+698,Business Analyst,NextGen Analytics,Chennai,5,9,Power BI,28-11-2025
+699,,QuantifyAI,Hyderabad,5,Not Available,SQL,29-11-2025
+700,Business Analyst,QuantifyAI,Chennai,5,5,Excel,30-11-2025
+701,Data Scientist,QuantifyAI,Mumbai,5,4,Power BI,01-12-2025
+702,Data Scientist,QuantifyAI,Hyderabad,1,9,Python,02-12-2025
+703,Business Analyst,QuantifyAI,Pune,5,9,Power BI,03-12-2025
+704,ML Engineer,DataZest,Bangalore,1,6,Excel,04-12-2025
+705,Data Analyst,TechNova,Hyderabad,5,Not Available,Excel,05-12-2025
+706,ML Engineer,InsightWorks,Hyderabad,4,10,Python,06-12-2025
+707,BI Analyst,TechNova,Mumbai,Not Available,3,Power BI,07-12-2025
+708,Data Scientist,QuantifyAI,Bangalore,5,3,Power BI,08-12-2025
+709,Data Analyst,DataZest,Pune,2,7,Python,09-12-2025
+710,Data Analyst,NextGen Analytics,Hyderabad,5,8,Power BI,10-12-2025
+711,BI Analyst,DataZest,Hyderabad,5,5,Python,11-12-2025
+712,BI Analyst,QuantifyAI,Mumbai,4,Not Available,SQL,12-12-2025
+713,Business Analyst,DataZest,Chennai,3,8,Excel,13-12-2025
+714,Data Scientist,DataZest,Pune,4,6,SQL,14-12-2025
+715,Data Scientist,QuantifyAI,Bangalore,2,9,Tableau,15-12-2025
+716,ML Engineer,DataZest,Hyderabad,3,10,Tableau,16-12-2025
+717,Business Analyst,InsightWorks,Hyderabad,0,Not Available,Tableau,17-12-2025
+718,Business Analyst,InsightWorks,Pune,0,8,Python,18-12-2025
+719,Business Analyst,DataZest,Chennai,2,8,Power BI,19-12-2025
+720,Business Analyst,NextGen Analytics,Hyderabad,4,10,SQL,20-12-2025
+721,Data Scientist,QuantifyAI,Pune,1,7,SQL,21-12-2025
+722,Data Scientist,InsightWorks,Mumbai,2,5,SQL,22-12-2025
+723,Business Analyst,NextGen Analytics,Chennai,Not Available,5,SQL,23-12-2025
+724,ML Engineer,DataZest,Bangalore,3,8,Tableau,24-12-2025
+725,Data Analyst,NextGen Analytics,Hyderabad,3,4,SQL,25-12-2025
+726,Data Analyst,TechNova,Pune,5,8,Power BI,26-12-2025
+727,ML Engineer,InsightWorks,Mumbai,0,8,Tableau,27-12-2025
+728,Business Analyst,DataZest,Bangalore,3,10,SQL,28-12-2025
+729,Data Scientist,QuantifyAI,Pune,2,9,Python,29-12-2025
+730,Data Analyst,DataZest,Pune,3,10,Excel,30-12-2025
+731,BI Analyst,QuantifyAI,Bangalore,2,Not Available,Excel,31-12-2025
+732,BI Analyst,DataZest,Mumbai,1,8,Excel,01-01-2026
+733,ML Engineer,NextGen Analytics,Mumbai,5,5,Tableau,02-01-2026
+734,Business Analyst,NextGen Analytics,Chennai,0,5,SQL,03-01-2026
+735,Data Analyst,NextGen Analytics,Hyderabad,3,3,Tableau,04-01-2026
+736,Business Analyst,TechNova,Bangalore,2,7,Power BI,05-01-2026
+737,Data Analyst,QuantifyAI,Bangalore,4,6,Python,06-01-2026
+738,ML Engineer,NextGen Analytics,Bangalore,0,Not Available,Python,07-01-2026
+739,ML Engineer,,Mumbai,1,Not Available,Excel,08-01-2026
+740,BI Analyst,QuantifyAI,Hyderabad,2,7,Excel,09-01-2026
+741,Business Analyst,DataZest,Chennai,Not Available,6,Excel,10-01-2026
+742,BI Analyst,TechNova,Pune,Not Available,9,SQL,11-01-2026
+743,Business Analyst,InsightWorks,Pune,5,8,Power BI,12-01-2026
+744,BI Analyst,TechNova,Bangalore,5,6,Power BI,13-01-2026
+745,Data Scientist,TechNova,Hyderabad,1,4,Power BI,14-01-2026
+746,Data Scientist,QuantifyAI,Mumbai,1,3,Power BI,15-01-2026
+747,Data Scientist,DataZest,Hyderabad,5,6,Excel,16-01-2026
+748,Data Scientist,InsightWorks,Hyderabad,3,6,Python,17-01-2026
+749,Data Analyst,NextGen Analytics,Mumbai,3,3,Excel,18-01-2026
+750,Data Scientist,NextGen Analytics,Bangalore,2,8,Power BI,19-01-2026
+751,ML Engineer,TechNova,Hyderabad,4,6,Excel,20-01-2026
+752,ML Engineer,QuantifyAI,Pune,2,3,Power BI,21-01-2026
+753,Data Analyst,QuantifyAI,Mumbai,4,3,Tableau,22-01-2026
+754,Data Scientist,NextGen Analytics,Chennai,1,3,Python,23-01-2026
+755,Data Scientist,InsightWorks,Bangalore,0,10,Tableau,24-01-2026
+756,Data Scientist,DataZest,Mumbai,2,10,SQL,25-01-2026
+757,BI Analyst,InsightWorks,Chennai,2,4,Excel,26-01-2026
+758,Business Analyst,DataZest,Chennai,4,9,SQL,27-01-2026
+759,BI Analyst,NextGen Analytics,Hyderabad,1,10,Excel,28-01-2026
+760,Business Analyst,DataZest,Hyderabad,1,10,Tableau,29-01-2026
+761,Data Scientist,QuantifyAI,Hyderabad,Not Available,9,Power BI,30-01-2026
+762,Data Scientist,TechNova,Mumbai,4,7,Power BI,31-01-2026
+763,BI Analyst,TechNova,Mumbai,1,3,Excel,01-02-2026
+764,BI Analyst,NextGen Analytics,Bangalore,5,Not Available,Power BI,02-02-2026
+765,Business Analyst,QuantifyAI,Hyderabad,3,9,Tableau,03-02-2026
+766,ML Engineer,InsightWorks,Chennai,Not Available,4,Power BI,04-02-2026
+767,Business Analyst,QuantifyAI,Pune,5,8,Tableau,05-02-2026
+768,BI Analyst,TechNova,Bangalore,0,4,SQL,06-02-2026
+769,BI Analyst,TechNova,Mumbai,2,3,Tableau,07-02-2026
+770,Data Analyst,QuantifyAI,Bangalore,Not Available,9,Python,08-02-2026
+771,BI Analyst,QuantifyAI,Bangalore,0,4,Python,09-02-2026
+772,Data Analyst,TechNova,Bangalore,2,4,Python,10-02-2026
+773,ML Engineer,InsightWorks,Bangalore,3,7,Excel,11-02-2026
+774,Business Analyst,NextGen Analytics,Pune,1,7,Excel,12-02-2026
+775,Business Analyst,NextGen Analytics,Hyderabad,5,9,Excel,13-02-2026
+776,Data Analyst,QuantifyAI,Chennai,4,3,Tableau,14-02-2026
+777,Business Analyst,NextGen Analytics,Bangalore,5,10,Excel,15-02-2026
+778,BI Analyst,TechNova,Bangalore,3,5,SQL,16-02-2026
+779,Data Scientist,TechNova,Bangalore,0,6,Python,17-02-2026
+780,Data Analyst,QuantifyAI,Hyderabad,4,Not Available,Tableau,18-02-2026
+781,Business Analyst,QuantifyAI,Mumbai,1,6,Python,19-02-2026
+782,Data Analyst,QuantifyAI,Mumbai,3,7,Excel,20-02-2026
+783,Data Analyst,InsightWorks,Pune,4,9,Tableau,21-02-2026
+784,Data Scientist,NextGen Analytics,Mumbai,3,6,Power BI,22-02-2026
+785,BI Analyst,QuantifyAI,,3,3,SQL,23-02-2026
+786,Data Analyst,DataZest,Bangalore,1,Not Available,Excel,24-02-2026
+787,Business Analyst,DataZest,Bangalore,Not Available,6,Excel,25-02-2026
+788,ML Engineer,TechNova,Pune,2,Not Available,SQL,26-02-2026
+789,Data Analyst,NextGen Analytics,Bangalore,4,8,SQL,27-02-2026
+790,Data Analyst,QuantifyAI,Mumbai,1,3,Power BI,28-02-2026
+791,Data Scientist,DataZest,Hyderabad,3,5,Excel,01-03-2026
+792,BI Analyst,NextGen Analytics,Hyderabad,1,4,Excel,02-03-2026
+793,ML Engineer,TechNova,Chennai,Not Available,Not Available,Python,03-03-2026
+794,Business Analyst,InsightWorks,Mumbai,2,3,Tableau,04-03-2026
+795,ML Engineer,NextGen Analytics,Bangalore,5,Not Available,Tableau,05-03-2026
+796,Business Analyst,NextGen Analytics,Hyderabad,4,Not Available,Python,06-03-2026
+797,BI Analyst,InsightWorks,Mumbai,2,10,Tableau,07-03-2026
+798,Business Analyst,NextGen Analytics,Hyderabad,0,10,SQL,08-03-2026
+799,Data Scientist,TechNova,Bangalore,4,3,Tableau,09-03-2026
+800,Data Scientist,TechNova,Hyderabad,2,10,Tableau,10-03-2026
+801,Data Scientist,InsightWorks,Chennai,3,5,Python,11-03-2026
+802,Data Scientist,QuantifyAI,Chennai,4,9,Power BI,12-03-2026
+803,ML Engineer,DataZest,Hyderabad,4,3,Tableau,13-03-2026
+804,BI Analyst,QuantifyAI,Mumbai,1,3,Tableau,14-03-2026
+805,Business Analyst,NextGen Analytics,Mumbai,3,7,Power BI,15-03-2026
+806,Business Analyst,DataZest,Mumbai,0,7,Python,16-03-2026
+807,Data Scientist,InsightWorks,Hyderabad,5,10,Power BI,17-03-2026
+808,Data Scientist,InsightWorks,Mumbai,Not Available,9,Python,18-03-2026
+809,Data Analyst,DataZest,Bangalore,2,10,SQL,19-03-2026
+810,BI Analyst,TechNova,Chennai,1,8,Python,20-03-2026
+811,ML Engineer,DataZest,Bangalore,2,8,SQL,21-03-2026
+812,Business Analyst,NextGen Analytics,Mumbai,0,4,SQL,22-03-2026
+813,Data Analyst,TechNova,Bangalore,0,8,Python,23-03-2026
+814,Data Analyst,InsightWorks,Mumbai,4,7,Excel,24-03-2026
+815,Business Analyst,DataZest,Hyderabad,Not Available,5,Python,25-03-2026
+816,ML Engineer,QuantifyAI,Bangalore,0,8,Tableau,26-03-2026
+817,Data Analyst,QuantifyAI,Hyderabad,2,10,Tableau,27-03-2026
+818,Data Analyst,NextGen Analytics,Hyderabad,3,Not Available,Excel,28-03-2026
+819,BI Analyst,QuantifyAI,Pune,3,3,SQL,29-03-2026
+820,ML Engineer,DataZest,Mumbai,4,5,Excel,30-03-2026
+821,Data Analyst,DataZest,Chennai,5,5,Tableau,31-03-2026
+822,ML Engineer,QuantifyAI,Mumbai,2,10,Excel,01-04-2026
+823,Business Analyst,DataZest,Chennai,2,3,Python,02-04-2026
+824,Data Scientist,NextGen Analytics,Mumbai,0,7,Excel,03-04-2026
+825,Data Analyst,TechNova,Hyderabad,Not Available,5,SQL,04-04-2026
+826,BI Analyst,NextGen Analytics,Bangalore,2,4,Python,05-04-2026
+827,Business Analyst,NextGen Analytics,Bangalore,1,10,Power BI,06-04-2026
+828,ML Engineer,DataZest,Pune,5,5,Tableau,07-04-2026
+829,Business Analyst,TechNova,Chennai,0,9,Tableau,08-04-2026
+830,Data Analyst,DataZest,Chennai,1,3,Excel,09-04-2026
+831,ML Engineer,InsightWorks,Chennai,4,8,Python,10-04-2026
+832,Data Scientist,DataZest,Hyderabad,3,5,Power BI,11-04-2026
+833,Business Analyst,DataZest,Chennai,4,10,Python,12-04-2026
+834,Data Analyst,DataZest,Bangalore,3,8,Tableau,13-04-2026
+835,BI Analyst,TechNova,Hyderabad,4,4,Python,14-04-2026
+836,ML Engineer,DataZest,Mumbai,2,8,Power BI,15-04-2026
+837,Business Analyst,TechNova,Chennai,1,9,Excel,16-04-2026
+838,Business Analyst,QuantifyAI,Chennai,3,7,SQL,17-04-2026
+839,Data Scientist,InsightWorks,Mumbai,0,5,Python,18-04-2026
+840,Data Scientist,TechNova,Chennai,1,6,SQL,19-04-2026
+841,BI Analyst,QuantifyAI,Mumbai,0,6,Tableau,20-04-2026
+842,BI Analyst,TechNova,Hyderabad,1,8,Excel,21-04-2026
+843,Data Analyst,TechNova,Bangalore,1,3,Excel,22-04-2026
+844,Data Analyst,InsightWorks,Mumbai,4,6,Python,23-04-2026
+845,BI Analyst,NextGen Analytics,Pune,3,6,Excel,24-04-2026
+846,BI Analyst,NextGen Analytics,Mumbai,3,3,Python,25-04-2026
+847,ML Engineer,TechNova,Chennai,Not Available,Not Available,Python,26-04-2026
+848,Data Scientist,DataZest,Hyderabad,1,6,SQL,27-04-2026
+849,Data Analyst,QuantifyAI,Hyderabad,2,9,Excel,28-04-2026
+850,Data Scientist,DataZest,Mumbai,2,5,Python,29-04-2026
+851,Data Scientist,DataZest,Bangalore,0,5,SQL,30-04-2026
+852,BI Analyst,TechNova,Pune,0,10,Power BI,01-05-2026
+853,ML Engineer,TechNova,Hyderabad,4,10,SQL,02-05-2026
+854,Business Analyst,TechNova,Chennai,1,3,SQL,03-05-2026
+855,ML Engineer,TechNova,Chennai,0,4,Python,04-05-2026
+856,ML Engineer,NextGen Analytics,Bangalore,0,10,Tableau,05-05-2026
+857,Data Scientist,TechNova,Hyderabad,5,3,Tableau,06-05-2026
+858,ML Engineer,NextGen Analytics,Mumbai,1,10,Tableau,07-05-2026
+859,Data Analyst,NextGen Analytics,Chennai,4,10,SQL,08-05-2026
+860,Data Scientist,TechNova,Bangalore,0,4,Python,09-05-2026
+861,Data Analyst,InsightWorks,Hyderabad,4,6,Excel,10-05-2026
+862,Business Analyst,QuantifyAI,Hyderabad,3,8,SQL,11-05-2026
+863,Data Scientist,DataZest,Hyderabad,4,Not Available,SQL,12-05-2026
+864,Business Analyst,NextGen Analytics,Hyderabad,2,10,Python,13-05-2026
+865,Data Scientist,QuantifyAI,Hyderabad,2,10,Power BI,14-05-2026
+866,BI Analyst,InsightWorks,Chennai,4,9,SQL,15-05-2026
+867,ML Engineer,DataZest,Bangalore,2,Not Available,Power BI,16-05-2026
+868,BI Analyst,DataZest,Hyderabad,3,4,Power BI,17-05-2026
+869,Business Analyst,NextGen Analytics,Pune,1,5,Tableau,18-05-2026
+870,ML Engineer,TechNova,Pune,2,10,Python,19-05-2026
+871,Data Scientist,InsightWorks,Bangalore,2,8,Power BI,20-05-2026
+872,ML Engineer,NextGen Analytics,Mumbai,4,Not Available,Python,21-05-2026
+873,Data Analyst,InsightWorks,Mumbai,3,6,Tableau,22-05-2026
+874,ML Engineer,TechNova,Mumbai,Not Available,10,Python,23-05-2026
+875,Data Analyst,TechNova,Pune,Not Available,5,SQL,24-05-2026
+876,ML Engineer,NextGen Analytics,Mumbai,Not Available,5,Power BI,25-05-2026
+877,Data Analyst,TechNova,Chennai,Not Available,10,Python,26-05-2026
+878,Business Analyst,QuantifyAI,Hyderabad,1,7,Excel,27-05-2026
+879,BI Analyst,DataZest,Pune,4,5,Python,28-05-2026
+880,Data Scientist,NextGen Analytics,Bangalore,4,3,Power BI,29-05-2026
+881,ML Engineer,InsightWorks,Bangalore,5,5,Tableau,30-05-2026
+882,BI Analyst,QuantifyAI,Hyderabad,3,Not Available,Tableau,31-05-2026
+883,Data Scientist,NextGen Analytics,Pune,Not Available,7,Power BI,01-06-2026
+884,Data Scientist,TechNova,Mumbai,1,4,SQL,02-06-2026
+885,,TechNova,Mumbai,3,9,SQL,03-06-2026
+886,Business Analyst,TechNova,Chennai,Not Available,4,Tableau,04-06-2026
+887,Business Analyst,TechNova,Chennai,1,6,Tableau,05-06-2026
+888,BI Analyst,InsightWorks,Mumbai,3,9,Power BI,06-06-2026
+889,Business Analyst,QuantifyAI,Bangalore,4,6,SQL,07-06-2026
+890,ML Engineer,DataZest,Bangalore,4,9,Tableau,08-06-2026
+891,Business Analyst,InsightWorks,Chennai,0,9,SQL,09-06-2026
+892,BI Analyst,InsightWorks,Hyderabad,2,3,Tableau,10-06-2026
+893,Business Analyst,DataZest,Mumbai,Not Available,8,Python,11-06-2026
+894,ML Engineer,DataZest,Chennai,5,Not Available,Excel,12-06-2026
+895,Data Analyst,TechNova,Chennai,3,4,Python,13-06-2026
+896,BI Analyst,InsightWorks,Mumbai,5,5,Tableau,14-06-2026
+897,Data Analyst,NextGen Analytics,Mumbai,0,7,Excel,15-06-2026
+898,Data Analyst,DataZest,Bangalore,2,Not Available,Excel,16-06-2026
+899,Data Analyst,DataZest,Hyderabad,3,6,Tableau,17-06-2026
+900,Data Scientist,QuantifyAI,Hyderabad,1,3,Tableau,18-06-2026
+901,Data Scientist,NextGen Analytics,Mumbai,Not Available,6,SQL,19-06-2026
+902,Data Analyst,NextGen Analytics,Pune,2,8,Tableau,20-06-2026
+903,BI Analyst,DataZest,Chennai,4,7,Power BI,21-06-2026
+904,ML Engineer,TechNova,Chennai,0,3,Tableau,22-06-2026
+905,ML Engineer,QuantifyAI,Mumbai,2,6,Power BI,23-06-2026
+906,Business Analyst,NextGen Analytics,Pune,Not Available,8,Tableau,24-06-2026
+907,BI Analyst,DataZest,Bangalore,2,6,SQL,25-06-2026
+908,Data Scientist,NextGen Analytics,Mumbai,Not Available,Not Available,Power BI,26-06-2026
+909,Data Analyst,QuantifyAI,Mumbai,4,7,Python,27-06-2026
+910,Business Analyst,QuantifyAI,Chennai,3,10,Power BI,28-06-2026
+911,ML Engineer,InsightWorks,Mumbai,1,Not Available,SQL,29-06-2026
+912,Data Scientist,DataZest,Mumbai,4,7,Power BI,30-06-2026
+913,Data Scientist,QuantifyAI,Mumbai,1,8,Tableau,01-07-2026
+914,Data Analyst,InsightWorks,Chennai,3,3,Tableau,02-07-2026
+915,ML Engineer,InsightWorks,Bangalore,2,9,SQL,03-07-2026
+916,BI Analyst,NextGen Analytics,Bangalore,1,6,Excel,04-07-2026
+917,Data Scientist,NextGen Analytics,Mumbai,0,4,Tableau,05-07-2026
+918,Data Analyst,InsightWorks,Chennai,0,7,Python,06-07-2026
+919,BI Analyst,NextGen Analytics,Bangalore,Not Available,5,SQL,07-07-2026
+920,ML Engineer,QuantifyAI,Bangalore,4,8,Power BI,08-07-2026
+921,Data Scientist,TechNova,Bangalore,3,10,Power BI,09-07-2026
+922,BI Analyst,QuantifyAI,Chennai,Not Available,9,Python,10-07-2026
+923,BI Analyst,InsightWorks,Chennai,4,5,Tableau,11-07-2026
+924,BI Analyst,InsightWorks,Mumbai,4,10,SQL,12-07-2026
+925,Data Scientist,QuantifyAI,Hyderabad,Not Available,4,Python,13-07-2026
+926,Data Scientist,NextGen Analytics,Bangalore,5,Not Available,Tableau,14-07-2026
+927,Business Analyst,NextGen Analytics,Hyderabad,4,6,SQL,15-07-2026
+928,ML Engineer,InsightWorks,Chennai,5,3,Power BI,16-07-2026
+929,,DataZest,Chennai,0,10,SQL,17-07-2026
+930,BI Analyst,NextGen Analytics,Chennai,0,9,Excel,18-07-2026
+931,Business Analyst,QuantifyAI,Hyderabad,4,7,SQL,19-07-2026
+932,Data Analyst,NextGen Analytics,Chennai,0,7,Excel,20-07-2026
+933,Business Analyst,QuantifyAI,Mumbai,3,9,SQL,21-07-2026
+934,Data Scientist,InsightWorks,Chennai,5,7,Excel,22-07-2026
+935,BI Analyst,NextGen Analytics,Pune,5,10,Power BI,23-07-2026
+936,Data Analyst,QuantifyAI,Hyderabad,4,8,Tableau,24-07-2026
+937,Data Analyst,InsightWorks,Pune,0,7,Excel,25-07-2026
+938,Data Analyst,DataZest,Chennai,1,Not Available,Excel,26-07-2026
+939,Data Analyst,QuantifyAI,Mumbai,Not Available,4,Power BI,27-07-2026
+940,Data Analyst,DataZest,Bangalore,Not Available,3,Excel,28-07-2026
+941,Business Analyst,DataZest,Chennai,5,10,Python,29-07-2026
+942,BI Analyst,TechNova,Mumbai,4,5,Power BI,30-07-2026
+943,Data Scientist,NextGen Analytics,Hyderabad,4,9,Python,31-07-2026
+944,Data Scientist,QuantifyAI,Pune,3,10,Power BI,01-08-2026
+945,Data Scientist,DataZest,Pune,2,8,Excel,02-08-2026
+946,Data Scientist,TechNova,Pune,2,Not Available,Python,03-08-2026
+947,Business Analyst,InsightWorks,Hyderabad,5,9,Excel,04-08-2026
+948,ML Engineer,QuantifyAI,Mumbai,Not Available,7,Power BI,05-08-2026
+949,BI Analyst,DataZest,Hyderabad,3,10,Excel,06-08-2026
+950,Data Analyst,NextGen Analytics,Pune,3,4,Python,07-08-2026
+951,ML Engineer,TechNova,Chennai,3,9,Python,08-08-2026
+952,Data Scientist,DataZest,Bangalore,5,6,Excel,09-08-2026
+953,ML Engineer,NextGen Analytics,Hyderabad,2,Not Available,SQL,10-08-2026
+954,BI Analyst,DataZest,Hyderabad,Not Available,3,Power BI,11-08-2026
+955,Data Analyst,QuantifyAI,Mumbai,3,9,Power BI,12-08-2026
+956,Data Analyst,QuantifyAI,Mumbai,Not Available,8,Excel,13-08-2026
+957,BI Analyst,QuantifyAI,Hyderabad,0,10,SQL,14-08-2026
+958,BI Analyst,TechNova,Pune,4,7,Python,15-08-2026
+959,Data Scientist,QuantifyAI,Bangalore,4,3,Tableau,16-08-2026
+960,Data Analyst,NextGen Analytics,Mumbai,Not Available,3,Tableau,17-08-2026
+961,ML Engineer,DataZest,Pune,1,Not Available,Excel,18-08-2026
+962,Business Analyst,InsightWorks,Chennai,1,8,SQL,19-08-2026
+963,Business Analyst,NextGen Analytics,Mumbai,5,7,SQL,20-08-2026
+964,BI Analyst,NextGen Analytics,Pune,5,3,Power BI,21-08-2026
+965,Data Scientist,QuantifyAI,Pune,4,8,Python,22-08-2026
+966,Business Analyst,TechNova,Bangalore,0,8,SQL,23-08-2026
+967,Data Analyst,DataZest,Bangalore,2,5,Tableau,24-08-2026
+968,BI Analyst,TechNova,Chennai,2,10,Python,25-08-2026
+969,ML Engineer,DataZest,Pune,5,3,Python,26-08-2026
+970,BI Analyst,DataZest,Pune,0,3,Excel,27-08-2026
+971,ML Engineer,TechNova,Bangalore,5,8,SQL,28-08-2026
+972,BI Analyst,NextGen Analytics,Mumbai,2,3,Excel,29-08-2026
+973,BI Analyst,DataZest,Mumbai,Not Available,8,SQL,30-08-2026
+974,BI Analyst,TechNova,Hyderabad,5,3,Power BI,31-08-2026
+975,ML Engineer,DataZest,Bangalore,3,8,Excel,01-09-2026
+976,ML Engineer,InsightWorks,Hyderabad,Not Available,5,Excel,02-09-2026
+977,BI Analyst,NextGen Analytics,Bangalore,5,10,Tableau,03-09-2026
+978,Business Analyst,QuantifyAI,Chennai,4,8,Excel,04-09-2026
+979,Data Scientist,DataZest,Pune,5,3,SQL,05-09-2026
+980,Data Scientist,InsightWorks,Chennai,4,7,Tableau,06-09-2026
+981,Data Scientist,QuantifyAI,Bangalore,0,10,Excel,07-09-2026
+982,ML Engineer,QuantifyAI,Pune,2,5,Excel,08-09-2026
+983,ML Engineer,DataZest,Mumbai,Not Available,8,Power BI,09-09-2026
+984,Business Analyst,TechNova,Mumbai,Not Available,7,Excel,10-09-2026
+985,Data Scientist,DataZest,Hyderabad,1,8,Python,11-09-2026
+986,Data Scientist,InsightWorks,Bangalore,1,3,Tableau,12-09-2026
+987,BI Analyst,QuantifyAI,Bangalore,2,9,Python,13-09-2026
+988,ML Engineer,DataZest,Mumbai,1,Not Available,Tableau,14-09-2026
+989,Data Scientist,TechNova,Chennai,Not Available,4,Power BI,15-09-2026
+990,Business Analyst,DataZest,Pune,5,7,Excel,16-09-2026
+991,Business Analyst,NextGen Analytics,Chennai,0,6,Excel,17-09-2026
+992,Data Scientist,TechNova,Chennai,0,8,Excel,18-09-2026
+993,ML Engineer,InsightWorks,Mumbai,2,8,Tableau,19-09-2026
+994,Business Analyst,QuantifyAI,Mumbai,1,4,Excel,20-09-2026
+995,BI Analyst,DataZest,Mumbai,5,4,Python,21-09-2026
+996,Business Analyst,TechNova,Hyderabad,0,6,Excel,22-09-2026
+997,Data Analyst,NextGen Analytics,Chennai,0,3,Power BI,23-09-2026
+998,Data Analyst,TechNova,Bangalore,3,Not Available,Python,24-09-2026
+999,ML Engineer,NextGen Analytics,Pune,3,9,Excel,25-09-2026
+1000,Data Scientist,InsightWorks,Hyderabad,Not Available,9,Excel,26-09-2026
+1,,QuantifyAI,Hyderabad,2,Not Available,Excel,01-01-2024
+3,Data Scientist,QuantifyAI,Pune,Not Available,7,Power BI,03-01-2024
